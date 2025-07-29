@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Class 7 Important Questions</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f0f8ff;
+      padding: 20px;
+    }
+    h1 {
+      color: #0a4d8c;
+      text-align: center;
+    }
+    .subject {
+      background: #dbeeff;
+      margin: 20px 0;
+      padding: 15px;
+      border-left: 6px solid #0a4d8c;
+      border-radius: 8px;
+    }
+    .subject h2 {
+      margin-top: 0;
+    }
+    .question {
+      margin-left: 20px;
+      margin-bottom: 5px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Class 7 - Important Questions</h1>
+
+  <div class="subject">
+    <h2>Bangla</h2>
+    <div class="question">1. Describe the benefits of rural life.</div>
+    <div class="question">2. Write a short biography of Kazi Nazrul Islam.</div>
+  </div>
+
+  <div class="subject">
+    <h2>Mathematics</h2>
+    <div class="question">1. How to find GCD and LCM?</div>
+    <div class="question">2. Write 3 important questions about fractions.</div>
+  </div>
+
+  <div class="subject">
+    <h2>ICT</h2>
+    <div class="question">1. What is the Internet and what are its benefits?</div>
+    <div class="question">2. Difference between software and hardware.</div>
+  </div>
+
+</body>
+</html>
